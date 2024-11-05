@@ -1,12 +1,24 @@
 
 .azkar-box-div-global
 {
-    /* Temporary code */
-    width: 100px;
+    text-align: right;
+    width: 80%;
+    height: 8em;
+    background-color: white;
 }
 
 .counter-btn-global
 {
-    /* Temporary code */
-    width: 100px;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: rgb(0, 255, 89);
+    width: 20%;
+    height: 70%;
+    color: white;
+}
+
+.orange-text
+{
+    text-align: center;
+    color: orange;
 }

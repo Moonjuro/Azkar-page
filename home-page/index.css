@@ -10,6 +10,13 @@
 
 .header
 {
-    margin-bottom: 100px;
     margin-top: 20px;
+}
+
+.horizontal-rule
+{
+    width: 50%;               
+    background-color:#ffffff;
+    height: 3px;
+    margin-bottom: 100px;
 }
